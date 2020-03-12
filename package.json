@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "simple nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello nodejs\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnehaDL/nodejs.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "sneha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnehaDL/nodejs/issues"
+  },
+  "homepage": "https://github.com/SnehaDL/nodejs#readme"
+}
