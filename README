@@ -1,0 +1,18 @@
+
+
+npm init
+https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/
+
+
+Node js creates a server that will listen to certian port
+
+
+To create a package.json file use command
+>> npm init
+
+To install the dependencies
+>> npm install --save express@xx.xx.xx mysql@version body_parser@version
+
+Create a DB and create a table, connect to it using the mysql package
+https://www.restapiexample.com/build-rest-api/create-rest-api-using-node-js-mysql-express/
+
